@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap'); 
+
+
+header {
+    border-bottom: 2px solid brown; 
+    text-align: center;
+}
+
+h1{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 800;
+    font-size: 45px;
+
+}
+
+
+main{
+     
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    grid-template-rows: 1fr 4fr;
+}  
+
+li, p{
+    line-height: 1.5;
+}
+
+/* p{
+    line-height: 2;
+} */
+
+section {    
+    padding: 25px;
+}
+
+
+
+h2{
+    color: brown;
+    font-size: 25px;
+}
+
+
+
+h4 {
+    font-style: italic;
+} 
+
+h5{
+    font-size: 25px;
+}
+
+
+.summary { background-color: lightcyan; 
+}
+
+.contact {
+    background-color: lightblue;
+}
+
+
+
+.skills{ 
+    background-color: lightcyan;
+}
+
+
+.profile img{
+    width: 150px;
+    height: 150px; 
+    border-radius: 200%;
+
+}
+
+footer{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+ 
+
+
+    
